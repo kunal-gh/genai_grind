@@ -1,8 +1,8 @@
-## Day X - YYYY-MM-DD  
+## Day X - 2025-03-28  
 ### **Today's Progress**  
-- Coded: [Brief description of what you built]  
-- Learned: [New concept/library/trick]  
-- Broken/Fixed: [Bug encountered + solution]  
+- Coded: hello world  
+- Learned: git commit  
+- Broken/Fixed: git live  
 
 ### **Code Snippet**  
 ```python  
